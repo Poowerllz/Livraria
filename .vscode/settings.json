@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "postgres_db",
+            "database": "atividade_livro11",
+            "username": "postgres",
+            "password": "admin"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Safil\\Desktop\\postgresql-42.2.18.jar"
+    ]
+}
